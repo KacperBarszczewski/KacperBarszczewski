@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kacper Barszczewski</h1>
-<h3 align="center">I'm student from Poland</h3>
+<h3 align="center">I'm a student from Poland</h3>
 
 - 🌱 I’m currently learning **React**
 
