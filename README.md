@@ -2,8 +2,8 @@
 <h3 align="center">I'm a student from Poland</h3>
 
 - 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **kacpero.barszczewski@gmail.com**
+- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="18" height="18"/> <a href="https://www.postman.com/security-architect-79547247/workspace/30-days-kacper-barszczewski" target="_blank" rel="noreferrer">**30 Days Postman**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
