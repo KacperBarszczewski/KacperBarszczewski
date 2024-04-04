@@ -13,9 +13,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kacperbarszczewski&show_icons=true&locale=en&layout=compact" alt="kacperbarszczewski" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kacperbarszczewski&show_icons=true&locale=en" alt="kacperbarszczewski" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kacperbarszczewski&" alt="kacperbarszczewski" />
 </p>
